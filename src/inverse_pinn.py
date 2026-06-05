@@ -3,9 +3,9 @@ import torch.nn as nn
 import numpy as np
 import matplotlib.pyplot as plt
 
-from diagnostics_logger import DiagnosticsLogger
-from analytical_solution import analytical
-from helper import get_time_observed, get_x_observed
+from src.diagnostics_logger import DiagnosticsLogger
+from src.analytical_solution import analytical
+from src.helper import get_time_observed, get_x_observed
 
 
 class InversePINN(nn.Module):

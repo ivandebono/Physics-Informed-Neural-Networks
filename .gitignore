@@ -8,3 +8,18 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/ 
+
+# Animation generated files
+*.mp4
+*.avi
+*.mov
+*.gif
+
+# vscode settings
+.vscode/
+
+# Environment variables
+.env

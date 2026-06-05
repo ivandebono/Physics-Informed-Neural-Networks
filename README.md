@@ -12,7 +12,7 @@ This repository contains code and notebooks for learning and experimenting with 
 ### 1. Clone the Repository
 
 ```
-git clone <repo-url>
+git clone https://github.com/ivandebono/Physics-Informed-Neural-Networks.git
 cd PINN_tutorial
 ```
 
